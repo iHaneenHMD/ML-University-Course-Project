@@ -1,4 +1,4 @@
-# ML-University-Course-Project
+# Machine Learning University Course Project
 implement from scratch the K-mean algorithm and DBSCAN . Then Create datasets . Show a comparison between the results of the two models.
 
 Generate 4 dataset :
